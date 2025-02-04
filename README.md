@@ -1,8 +1,8 @@
 
 
 - 👋 Hi, I’m @roger-1997
-- 👀 I’m interested in Aws-CloudnPractitioner, Business Development,Sale's and Marketing
-- 🌱 I’m currently learning AWS Cloud Practitioner
+- 👀 I’m interested in Aws-CloudnPractitioner, Business Development, Sale's and Marketing
+- 🌱 I’m currently learning AWS Cloud Practitioner and Project Management
 - 💞️ I’m looking to collaborate on Cloud Solutions, Hosting and Deployment, Business Analystics
 - 📫 How to reach me roger@trianglesoftwaresolutions.com,
 
